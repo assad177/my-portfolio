@@ -54,7 +54,7 @@ export default function About() {
             </p>
             
             <p className="text-gray-300 text-sm sm:text-base leading-relaxed">
-              Currently, I work as a Backend Developer, specializing in NestJS and TypeORM to craft robust, enterprise-grade APIs. I have a deep interest in modern web architecture, database optimization, and creating systems that perform at scale.
+              Currently, I work as a Backend Developer at Todds Group Abbottabad an Australian based Student Service company, specializing in NestJS and TypeORM to craft robust, enterprise-grade APIs. I have a deep interest in modern web architecture, database optimization, and creating systems that perform at scale.
             </p>
 
             <p className="text-gray-300 text-sm sm:text-base leading-relaxed">

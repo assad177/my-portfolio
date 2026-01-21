@@ -34,7 +34,7 @@ export default function Projects() {
       id: 2,
       title: 'Full-Stack E-Commerce Platform',
       description: 'Complete MERN stack e-commerce solution with payment integration, user authentication, and admin dashboard.',
-      image: '/projects/ecommerce.jpg',
+      image: 'https://images.unsplash.com/photo-1657256031812-4702fe316f1b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGVjb21tZXJjZSUyMHdlYiUyMGRlc2lnbiUyMG9uJTIwc2hvcGlmeXxlbnwwfHwwfHx8MA%3D%3D',
       tags: ['React', 'Node.js', 'MongoDB', 'Stripe', 'Tailwind'],
       links: {
         demo: 'https://example.com',
@@ -45,7 +45,7 @@ export default function Projects() {
       id: 3,
       title: 'Scalable REST API Backend',
       description: 'Enterprise-grade backend using NestJS, TypeORM with PostgreSQL and JWT authentication.',
-      image: '/projects/api.jpg',
+      image: '/project/api.jpeg',
       tags: ['NestJS', 'TypeORM', 'PostgreSQL', 'Docker', 'JWT'],
       links: {
         demo: 'https://api.example.com',

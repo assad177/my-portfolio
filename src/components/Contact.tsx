@@ -44,19 +44,19 @@ export default function Contact() {
     {
       icon: <Mail size={24} />,
       title: 'Email',
-      info: 'assadwazeer@example.com',
-      link: 'mailto:assadwazeer@example.com',
+      info: 'assadwazeer0@gmail.com',
+      link: 'mailto:assadwazeer0@gmail.com',
     },
     {
       icon: <Phone size={24} />,
       title: 'Phone',
-      info: '+92 (300) 123-4567',
-      link: 'tel:+923001234567',
+      info: '+92 3459617702',
+      link: 'tel:+923459617702',
     },
     {
       icon: <MapPin size={24} />,
       title: 'Location',
-      info: 'Islamabad, Pakistan',
+      info: 'Abbottabad Pakistan',
       link: '#',
     },
   ];
@@ -65,7 +65,7 @@ export default function Contact() {
     {
       icon: <Github size={24} />,
       name: 'GitHub',
-      link: 'https://github.com/assadwazeer',
+      link: 'https://github.com/assad177/',
     },
     {
       icon: <Linkedin size={24} />,

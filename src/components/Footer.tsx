@@ -21,7 +21,7 @@ export default function Footer() {
     {
       icon: <Github size={20} />,
       name: 'GitHub',
-      link: 'https://github.com/assadwazeer',
+      link: 'https://github.com/assad177/',
     },
     {
       icon: <Linkedin size={20} />,
@@ -36,7 +36,7 @@ export default function Footer() {
     {
       icon: <Mail size={20} />,
       name: 'Email',
-      link: 'mailto:assadwazeer@example.com',
+      link: 'assadwazeer0@gmail.com',
     },
   ];
 
@@ -131,7 +131,7 @@ export default function Footer() {
               <h3 className="text-white font-bold text-base">Resources</h3>
               <ul className="space-y-2 sm:space-y-2.5">
                 <li>
-                  <a href="https://github.com/assadwazeer" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 text-xs sm:text-sm transition-colors duration-300">
+                  <a href="https://github.com/assad177/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 text-xs sm:text-sm transition-colors duration-300">
                     GitHub
                   </a>
                 </li>
@@ -146,7 +146,7 @@ export default function Footer() {
                   </a>
                 </li>
                 <li>
-                  <a href="mailto:assadwazeer@example.com" className="text-gray-400 hover:text-blue-400 text-xs sm:text-sm transition-colors duration-300">
+                  <a href="mailto:assadwazeer0@gmail.com" className="text-gray-400 hover:text-blue-400 text-xs sm:text-sm transition-colors duration-300">
                     Email
                   </a>
                 </li>
