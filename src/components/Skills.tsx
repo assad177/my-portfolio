@@ -46,6 +46,8 @@ export default function Skills() {
   const proficiencies = [
     { name: 'React.js', level: 90 },
     { name: 'NestJS', level: 90 },
+    { name: 'NextJS.js', level: 90 },
+
     { name: 'MongoDB', level: 88 },
     { name: 'TypeScript', level: 92 },
     { name: 'Node.js', level: 93 },

@@ -11,8 +11,8 @@ export default function About() {
     },
     {
       icon: <BookOpen size={24} />,
-      title: 'Final Year CS Student',
-      description: 'Studying at COMSATS University with focus on software architecture.',
+      title: 'Software Engineer',
+      description: 'Graduated from  COMSATS University Abbottabad Campus',
     },
     {
       icon: <Target size={24} />,
@@ -50,7 +50,7 @@ export default function About() {
           {/* Left - Story */}
           <div className="space-y-4 sm:space-y-6">
             <p className="text-gray-300 text-sm sm:text-base leading-relaxed">
-              I'm Assad Wazeer, a final-year Computer Science student at COMSATS University with a passion for building scalable web applications and intelligent automation solutions. My journey in tech has been driven by curiosity and the desire to solve real-world problems through elegant code.
+              I'm Assad Wazeer Graduated from  COMSATS University  in Software Engineering with a passion for building scalable web applications and intelligent automation solutions. My journey in tech has been driven by curiosity and the desire to solve real-world problems through elegant code.
             </p>
             
             <p className="text-gray-300 text-sm sm:text-base leading-relaxed">

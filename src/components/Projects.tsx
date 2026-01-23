@@ -38,7 +38,7 @@ export default function Projects() {
       tags: ['React', 'Node.js', 'MongoDB', 'Stripe', 'Tailwind'],
       links: {
         demo: 'https://example.com',
-        github: 'https://github.com/assadwazeer',
+        github: 'https://github.com/assad177/Ecommerce_Backend.git',
       },
     },
     {
@@ -49,7 +49,7 @@ export default function Projects() {
       tags: ['NestJS', 'TypeORM', 'PostgreSQL', 'Docker', 'JWT'],
       links: {
         demo: 'https://api.example.com',
-        github: 'https://github.com/assadwazeer',
+        github: 'https://github.com/assad177/ExpressJs.git',
       },
     },
     {
@@ -82,7 +82,7 @@ export default function Projects() {
       tags: ['React', 'Firebase', 'Redux', 'Tailwind', 'TypeScript'],
       links: {
         demo: 'https://example.com',
-        github: 'https://github.com/assadwazeer',
+        github: 'https://github.com/assad177/Blog_Site.git',
       },
     },
   ];
