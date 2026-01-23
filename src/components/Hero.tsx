@@ -130,7 +130,7 @@ export default function Hero() {
             }}>
               {[
                 { number: '10+', label: 'Projects' },
-                { number: '4+', label: 'Years' },
+                { number: '2+', label: 'Years' },
                 { number: '100%', label: 'Dedicated' }
               ].map((stat, i) => (
                 <div key={i} className="space-y-1 group cursor-default">
